@@ -49,10 +49,10 @@ export default function Home() {
         style={{ backgroundColor: "#ffffffff" }}
         className="font-sans grid grid-rows-[auto_1fr_auto] items-center justify-items-center min-h-screen p-4 sm:p-8 pb-20 gap-8 sm:gap-16"
       >
-        <main className="flex flex-col gap-8 sm:gap-[32px] row-start-2 items-center sm:items-start w-full max-w-4xl">
+        <main className="flex flex-col gap-8 sm:gap-[32px] row-start-2 items-center w-full max-w-4xl mx-auto text-center">
           {/* Add your main content here. Example placeholder: */}
-          <h1 className="text-2xl sm:text-4xl font-bold text-center sm:text-left mb-4">Welcome to DTEC</h1>
-          <p className="text-base sm:text-lg text-center sm:text-left">This is a responsive Next.js page.</p>
+          <h1 className="text-2xl sm:text-4xl font-bold mb-4">Welcome to DTEC</h1>
+          <p className="text-base sm:text-lg">This is a responsive Next.js page.</p>
         </main>
       </div>
       <footer
