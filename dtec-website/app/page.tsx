@@ -19,25 +19,25 @@ export default function Home() {
         <div className="flex flex-col lg:flex-row items-center gap-4 lg:gap-8 w-full justify-center lg:justify-start">
           <a
             href="#home"
-            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-[#e68c3a] after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
+            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-transparent hover:after:bg-yellow-500 after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
           >
             Home
           </a>
           <a
             href="#about"
-            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-[#e68c3a] after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
+            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-transparent hover:after:bg-yellow-500 after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
           >
             About
           </a>
           <a
             href="#services"
-            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-[#e68c3a] after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
+            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-transparent hover:after:bg-yellow-500 after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
           >
             Services
           </a>
           <a
             href="#contacts"
-            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-[#e68c3a] after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
+            className="text-white text-base cursor-pointer relative inline-block after:block after:h-[2px] after:bg-transparent hover:after:bg-yellow-500 after:absolute after:bottom-0 after:left-0 after:w-0 after:transition-all after:duration-300 hover:after:w-full"
           >
             Contacts
           </a>
